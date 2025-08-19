@@ -37,14 +37,17 @@ The focus is on cleaning, analyzing, and visualizing **user activity and sleep d
 
 3. **Data Visualization**  
 
+## Visualizations  
+
 ### Distribution of Total Sleep per Day  
-![Distribution of Sleep](visuals/distribution_sleep.png)  
+![Distribution of Total Sleep per Day](visuals/distribution%20of%20total%20sleep%20per%20day.png)  
 
 ### Total Sleep vs Total Steps  
-![Sleep vs Steps](visuals/sleep_vs_steps.png)  
+![Total Sleep vs Total Steps](visuals/total%20sleep%20vs%20total%20steps.png)  
 
 ### Sedentary Minutes vs Total Sleep  
-![Sedentary vs Sleep](visuals/sedentary_vs_sleep.png)  
+![Sedentary Minutes vs Total Sleep](visuals/sedentary%20minutew%20vs%20total%20sleep.png)  
+ 
 4. **Insights & Recommendations**  
 
 ---
