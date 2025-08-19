@@ -67,11 +67,11 @@ The focus is on cleaning, analyzing, and visualizing **user activity and sleep d
 
 ## Repository Structure  
 bellabeat-case-study/
-│-- data/ # Raw and cleaned datasets (CSV, Excel, Zip)
-│-- scripts/ # R scripts for cleaning & analysis
-│-- visuals/ # Graphs (PNG files)
-│-- Bellabeat Case Study Report.docx # Final report
-│-- README.md # Project documentation
+├── data/ # Datasets (raw & cleaned)
+├── scripts/ # R scripts for cleaning and analysis
+├── visuals/ # Output graphs (PNG files)
+├── Bellabeat Case Study Report.docx # Final written report
+└── README.md # Project overview and visuals
 
 ---
 
