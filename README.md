@@ -36,10 +36,15 @@ The focus is on cleaning, analyzing, and visualizing **user activity and sleep d
    - Merged **daily sleep** + **daily activity** datasets by `Id` and `date`.  
 
 3. **Data Visualization**  
-   - Distribution of **total sleep per day**.  
-   - Relationship: **Total Sleep vs Total Steps**.  
-   - Relationship: **Sedentary Minutes vs Total Sleep**.  
 
+### Distribution of Total Sleep per Day  
+![Distribution of Sleep](visuals/distribution_sleep.png)  
+
+### Total Sleep vs Total Steps  
+![Sleep vs Steps](visuals/sleep_vs_steps.png)  
+
+### Sedentary Minutes vs Total Sleep  
+![Sedentary vs Sleep](visuals/sedentary_vs_sleep.png)  
 4. **Insights & Recommendations**  
 
 ---
